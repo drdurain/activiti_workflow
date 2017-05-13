@@ -7,7 +7,7 @@ import org.activiti.engine.delegate.JavaDelegate;
 
 public class AutomatedDataDelegate implements JavaDelegate {
 
-	  @Override
+	 // @Override
 	  public void execute(DelegateExecution execution) throws Exception {
 	    Date now = new Date();
 	    execution.setVariable("autoWelcomeTime", now);
