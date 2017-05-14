@@ -1,4 +1,4 @@
-package com.wfm.loan;
+package com.wfm.wfm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
