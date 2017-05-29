@@ -1,0 +1,10 @@
+camunda.bpm:
+  filter:
+    create: All
+  job-execution:
+    core-pool-size: 10
+  webapp:
+    index-redirect-enabled: true
+  admin-user:
+    id: admin
+    password: admin
